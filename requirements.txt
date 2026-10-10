@@ -1,11 +1,9 @@
-#streamlit==0.80.0
-streamlit
-gTTS==2.2.2
-googletrans==4.0.0rc1
-streamlit-webrtc
+
+streamlit>=1.40.0
+gTTS==2.5.4
+googletrans==4.0.2
+httpx>=0.27,<0.29
 numpy
 opencv-python-headless
 pytesseract
 Pillow
-
-
